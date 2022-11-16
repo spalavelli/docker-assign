@@ -1,0 +1,2 @@
+sudo docker run -d -e CSVSERVER_BORDER Orange -v /home/srinivas/assignment/csvserver-master/solution:/csvserver/inputdata infracloudio/csvserver:latest
+
